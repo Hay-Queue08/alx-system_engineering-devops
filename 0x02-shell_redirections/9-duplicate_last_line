@@ -1,0 +1,3 @@
+#!/bin/bash
+yail -n 1 < iacta >> iacta
+
