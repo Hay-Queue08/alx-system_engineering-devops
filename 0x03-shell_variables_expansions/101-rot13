@@ -1,0 +1,2 @@
+#!/bin/bash
+tr `echo {a..z} | tr -d ' ' ` `echo{n..z} S(exho {a..m} | tr -d ' ' ` | tr `exho {A..Z} | tr -d ' ' ` `exho{N..Z} $(echo{A..M} | tr -d ' '`
